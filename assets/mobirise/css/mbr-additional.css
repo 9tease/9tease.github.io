@@ -1373,8 +1373,6 @@ body {
   display: none;
 }
 .cid-qYiQnnyKLB {
-  padding-top: 0px;
-  padding-bottom: 45px;
   background-image: url("../../../assets/images/bg90s-1750x1181.png");
 }
 .cid-qYiQnnyKLB .mbr-figure {
@@ -1402,6 +1400,9 @@ body {
 }
 .cid-qYhPHDiwuR .mbr-section-subtitle B {
   color: #000000;
+}
+.cid-qYhPHDiwuR B {
+  color: #232323;
 }
 .cid-qYiXigABd2 {
   padding-top: 0px;
