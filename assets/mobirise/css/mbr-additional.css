@@ -1292,6 +1292,7 @@ body {
 .cid-qYp0NnSdC7 .content-slider {
   display: flex;
   justify-content: center;
+background-image: url("/assets/images/HeaderBG.gif");
 }
 .cid-qYp0NnSdC7 .modal-body .close {
   background: #1b1b1b;
